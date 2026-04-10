@@ -63,4 +63,5 @@ async def verifypanel(interaction: discord.Interaction):
 
 
 # Run bot
-bot.run("MTQ5MTYzMTk1NzI3OTI0ODQxNA.G0ihQz.VzE_tLCTOuyLPbfDMXOM-t3YhjmNIDLOyvsh0I")
+bot.run("MTQ5MTYzMTk1NzI3OTI0ODQxNA.GlzVKe.hTrZ7sWcztOP6K0sb1JKjW_s2qM9WK1kqM2IBE")
+ll
